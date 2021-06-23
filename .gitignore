@@ -1,0 +1,15 @@
+/[Aa]ssets/
+/[Ll]ibrary/
+/[Ll]ogs/
+/[Oo]bj/
+/[Pp]ackages/
+/[Pp]rojectSettings/
+/[Tt]emp/
+/[Uu]serSettings/
+
+/.vs/
+/TreasureMizuhaAdventure/
+.vsconfig
+Assembly-CSharp.csproj
+Assembly-CSharp-firstpass.csproj
+Gv06_MizuhaThirdAnniversary.sln
